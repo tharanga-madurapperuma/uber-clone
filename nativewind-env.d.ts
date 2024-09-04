@@ -1,1 +1,2 @@
-/// <reference types="nativewind/types" />
+// eslint-disable-next-line prettier/prettier
+/// <reference types="nativewind/types"/>
